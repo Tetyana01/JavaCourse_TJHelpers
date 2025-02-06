@@ -1,12 +1,12 @@
-package Task_2;
+package Home_Work_2.Task_2;
 
 public class   A {
     public String species;
     protected Integer age;
-    int animals;
+    String animals;
     private String name;
 
-    public A(String species, Integer age,  int animals, String name) {
+    public A(String species, Integer age,  String animals, String name) {
         this.species = species;
         this.age = age;
         this.animals = animals;
